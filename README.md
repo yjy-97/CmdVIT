@@ -3,7 +3,7 @@ A Voluntary Facial Expression Recognition Model for Complex Mental Disorders
 
 # Introduction
 <font face=times new roman>
-<font size=5>This is the official data link of VFEM<br/>
+<font size=5>This is the official data link of CmdVIT<br/>
 
 # Connect
 https://pan.baidu.com/s/1AaKIa7XFQVehrqbP1DWD2w
@@ -17,6 +17,8 @@ We provide OpenFace features for 20 cases and 20 controls
 Case group data is stored in the DEP folder<br>
 Control group data are stored in the NOR folder
 <br>
+
+
 VFEM.xlsx provides subject number and HAMD score
 <br>
 The last digit of each csv file represents the category of expressions
